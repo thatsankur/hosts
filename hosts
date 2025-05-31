@@ -38,3 +38,8 @@ ff02::3 ip6-allhosts
 # http://stevenblack.com
 
 0.0.0.0 youtube.com
+0.0.0.0 googlevideo.com
+0.0.0.0 facebook.com
+0.0.0.0 instagram.com
+0.0.0.0 instagram.com
+0.0.0.0 instagram.fdel1-7.fna.fbcdn.net
